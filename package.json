@@ -125,7 +125,7 @@
     "eslint-plugin-react": "^7.32.2",
     "fuse.js": "^7.0.0",
     "glob": "^10.2.2",
-    "husky": "^8.0.3",
+    "husky": "^9.1.7",
     "jest": "^26.0.24",
     "jest-cli": "^26.6.3",
     "jest-matcher-utils": "^29.7.0",
