@@ -93,7 +93,7 @@
     "@commitlint/config-conventional": "^18.4.4",
     "@lottiefiles/lottie-player": "^2.0.2",
     "@semantic-release/changelog": "^6.0.2",
-    "@semantic-release/commit-analyzer": "^11.0.0",
+    "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^9.0.3",
     "@semantic-release/npm": "^11.0.0",
